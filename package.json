@@ -1,0 +1,19 @@
+{
+  "name": "aws-lambda",
+  "version": "1.0.0",
+  "description": "deployFromGitAction",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-uppula/aws-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-uppula/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/praveen-uppula/aws-lambda#readme"
+}
